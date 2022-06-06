@@ -1,0 +1,15 @@
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\bin\Debug\net6.0\funsementals1.exe
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\bin\Debug\net6.0\funsementals1.deps.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\bin\Debug\net6.0\funsementals1.runtimeconfig.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\bin\Debug\net6.0\funsementals1.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\bin\Debug\net6.0\funsementals1.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.csproj.AssemblyReference.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\refint\funsementals1.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\funsementals1.genruntimeconfig.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\funsementals1\obj\Debug\net6.0\ref\funsementals1.dll
